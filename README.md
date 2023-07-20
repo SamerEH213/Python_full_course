@@ -1,2 +1,3 @@
 # Python_Basic
-About this Notebook: This notebook was designed to provide the building blocks for python programming and data collection for those choosing a career in data science ,data engineering , AI or Application Development .
+- I put in this code all my konwledge and libraries that I dealt with in python .
+- Not finished yet .
